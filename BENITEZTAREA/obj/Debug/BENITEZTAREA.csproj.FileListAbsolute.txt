@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\BENITEZTAREA\BENITEZTAREA\bin\Debug\BENITEZTAREA.dll
+C:\Users\HP\source\repos\BENITEZTAREA\BENITEZTAREA\bin\Debug\BENITEZTAREA.pdb
+C:\Users\HP\source\repos\BENITEZTAREA\BENITEZTAREA\obj\Debug\BENITEZTAREA.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BENITEZTAREA\BENITEZTAREA\obj\Debug\BENITEZTAREA.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BENITEZTAREA\BENITEZTAREA\obj\Debug\BENITEZTAREA.dll
+C:\Users\HP\source\repos\BENITEZTAREA\BENITEZTAREA\obj\Debug\BENITEZTAREA.pdb

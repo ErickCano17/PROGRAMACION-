@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BENITEZTAREA", "BENITEZTAREA\BENITEZTAREA.csproj", "{26AA3177-16E4-4791-9EED-ADB7B5C4D0A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIBLI", "BIBLI\BIBLI.csproj", "{8981153B-5953-4153-8A8F-694C29666D80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26AA3177-16E4-4791-9EED-ADB7B5C4D0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AA3177-16E4-4791-9EED-ADB7B5C4D0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AA3177-16E4-4791-9EED-ADB7B5C4D0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AA3177-16E4-4791-9EED-ADB7B5C4D0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8981153B-5953-4153-8A8F-694C29666D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8981153B-5953-4153-8A8F-694C29666D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8981153B-5953-4153-8A8F-694C29666D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8981153B-5953-4153-8A8F-694C29666D80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315F3827-2A33-42D7-8CDA-54CB51405A2F}
+	EndGlobalSection
+EndGlobal
